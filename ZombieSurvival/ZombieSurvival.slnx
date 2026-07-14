@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Frontend/">
+    <File Path="index.html" />
+    <File Path="entities.js" />
+    <File Path="game.js" />
+  </Folder>
+  <Folder Name="/Services/">
+    <Project Path="ZombieSurvival.GameServer/ZombieSurvival.GameServer.csproj" Id="574ecdde-732d-42c0-a0d7-8b6e3b1187f6" />
+    <Project Path="ZombieSurvival.WorldService/ZombieSurvival.WorldService.csproj" />
+  </Folder>
+  <Project Path="ZombieSurvival.AppHost/ZombieSurvival.AppHost.csproj" />
+  <Project Path="ZombieSurvival.ServiceDefaults/ZombieSurvival.ServiceDefaults.csproj" />
+  <Project Path="ZombieSurvival.Shared/ZombieSurvival.Shared.csproj" Id="2c01eced-e903-4e0b-a1b6-c5d33ea8c4b2" />
+</Solution>
